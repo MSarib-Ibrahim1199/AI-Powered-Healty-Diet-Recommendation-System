@@ -1,7 +1,5 @@
 # AI-Powered Healthy Diet Recommendation System
-
-## UWE Essentials and Applications of AI
-This project is part of the UWE Essentials and Applications of AI module.
+This project is part of the UWE Essentials and Applications of AI module and is made by Group 1.
 
 ## Team members
 - Sarib
@@ -32,13 +30,3 @@ We used the Kaggle dataset:
    - `order_products__prior.csv`
    - `order_products__train.csv`
 3. Open and run `healthy_diet_recommendation.ipynb` in Jupyter.
-
-## Notes
-- `orders.csv` and `order_products__prior.csv` are very large and should generally be downloaded separately (not committed in GitHub for file-size limits).
-- If you must store large CSVs in git, use Git LFS.
-- The notebook includes:
-  - data exploration
-  - health classification
-  - collaborative filtering recommendation engine
-  - evaluation (Precision@K and same-category healthy wrench)
-  - summary of results
