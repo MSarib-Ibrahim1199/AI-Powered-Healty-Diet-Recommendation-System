@@ -18,7 +18,7 @@ This repository contains a Jupyter notebook, `healthy_diet_recommendation.ipynb`
 ## Dataset source
 We used the Kaggle dataset:
 - **Instacart Market Basket Analysis**
-- URL: https://www.kaggle.com/c/instacart-market-basket-analysis/data
+- URL: https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
 
 ## Setup
 1. Download data from Kaggle link above.
